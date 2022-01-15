@@ -1,5 +1,7 @@
 forked from MKaterbarg/Booklib
 
+这是仓库MKaterbarg/Booklib的克隆版本。
+
 
 # Booklib - Ebook and Comic library system
 
